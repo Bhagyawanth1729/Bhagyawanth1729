@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bhagyawanth
 
 ## 🔹 About Me
-- 🎓 3rd-year Computer Science Student
+- 🎓 4th-year Computer Science Student
 - 📊 Aspiring Data Analyst | Python, SQL, Power BI, Excel
 - 💼 Worked on projects with Accenture, Deloitte, Tata iQ
 - 🌱 Learning Machine Learning & Visualization
