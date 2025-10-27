@@ -29,28 +29,28 @@
 ## 🔹 Projects
 
 ### 🐍 Python / ML Projects
-- [Smart Product Pricing Challenge](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge) – Multimodal ML project combining text + image for price prediction
-- [Insights from Failed Orders](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders) – Data analysis notebook
-- [Fraud Detection using ML](https://github.com/Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-) – End-to-end fraud detection
-- [Blinkit Data Analysis](https://github.com/Bhagyawanth1729/-Blinkit-Data-Analysis-Python)
-- [Heart Disease Analysis Dashboard](https://github.com/Bhagyawanth1729/Heart-Disease-Analysis-Dashboard)
+- [![Smart Product Pricing Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge) – Multimodal ML project combining text + image for price prediction
+- [![Insights from Failed Orders](https://img.shields.io/badge/Insights_Failed_Orders-Data-ff69b4?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders)
+- [![Fraud Detection ML](https://img.shields.io/badge/Fraud_Detection-ML-red?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-)
+- [![Blinkit Data Analysis](https://img.shields.io/badge/Blinkit-Analysis-yellow?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/-Blinkit-Data-Analysis-Python)
+- [![Heart Disease Dashboard](https://img.shields.io/badge/Heart_Disease-PBI-red?style=for-the-badge&logo=power-bi)](https://github.com/Bhagyawanth1729/Heart-Disease-Analysis-Dashboard)
 
 ### 📊 Power BI / Excel Projects
-- [Power BI & Excel Dashboard](https://github.com/Bhagyawanth1729/PowerBI_Excel_Interactive_Dashboard)
-- [Sales & Inventory Dashboard](https://github.com/Bhagyawanth1729/Sales-and-Inventory-Dashboard-using-Power-BI)
-- [Excel Interactive Dashboard](https://github.com/Bhagyawanth1729/Full-Project-in-Excel-with-Interactive-Dashboard-)
-- [Flipkart Regional Sales Analysis](https://github.com/Bhagyawanth1729/Flipkart_Regional_Sales_Analysis)
-- [Chocolate Sales Analysis](https://github.com/Bhagyawanth1729/Chocolate-Sales-)
+- [![Power BI & Excel Dashboard](https://img.shields.io/badge/PowerBI_Excel-Dashboard-green?style=for-the-badge&logo=power-bi)](https://github.com/Bhagyawanth1729/PowerBI_Excel_Interactive_Dashboard)
+- [![Sales & Inventory Dashboard](https://img.shields.io/badge/Sales_Inventory-Dashboard-orange?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Sales-and-Inventory-Dashboard-using-Power-BI)
+- [![Excel Interactive Dashboard](https://img.shields.io/badge/Excel_Interactive-Dashboard-blueviolet?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Full-Project-in-Excel-with-Interactive-Dashboard-)
+- [![Flipkart Regional Sales](https://img.shields.io/badge/Flipkart-Analysis-yellowgreen?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Flipkart_Regional_Sales_Analysis)
+- [![Chocolate Sales Analysis](https://img.shields.io/badge/Chocolate-Sales-red?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Chocolate-Sales-)
 
 ### 🌐 Web / App Projects
-- [Portfolio](https://github.com/Bhagyawanth1729/Portfolio)
-- [Plant Disease Detection App](https://github.com/Bhagyawanth1729/Plant-Disease-Detection-App)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github)](https://github.com/Bhagyawanth1729/Portfolio)
+- [![Plant Disease Detection](https://img.shields.io/badge/Plant_Disease-App-green?style=for-the-badge&logo=android)](https://github.com/Bhagyawanth1729/Plant-Disease-Detection-App)
 - Homecare UI (Private) – Responsive healthcare interface
 
 ### ☕ Java Projects
-- [Library Management Project](https://github.com/Bhagyawanth1729/Librarymanagementproject)
-- [DBMS Projects](https://github.com/Bhagyawanth1729/DBMS-PROJECT)
-- [Other College Java Projects](https://github.com/Bhagyawanth1729/College_projects)
+- [![Library Management](https://img.shields.io/badge/Library-Management-orange?style=for-the-badge&logo=java)](https://github.com/Bhagyawanth1729/Librarymanagementproject)
+- [![DBMS Projects](https://img.shields.io/badge/DBMS-Java-blue?style=for-the-badge&logo=java)](https://github.com/Bhagyawanth1729/DBMS-PROJECT)
+- [![College Java Projects](https://img.shields.io/badge/College_Projects-Java-red?style=for-the-badge&logo=java)](https://github.com/Bhagyawanth1729/College_projects)
 
 ---
 
