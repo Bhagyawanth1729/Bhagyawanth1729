@@ -1,9 +1,8 @@
 # Hi 👋, I'm Bhagyawanth
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=4th-%20Year%20Computer%20Science%20Student;Aspiring%20Data%20Analyst;Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel;Learning%20Machine%20Learning%20%26%20Data%20Visualization)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=4th-%20Year%20Computer%20Science%20Student;Aspiring%20Data%20Analyst;Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel;Learning%20Machine%20Learning%20%26%20Data%20Visualization)
 
-
-
+---
 
 ## 🔹 About Me
 - 🎓 4th-year Computer Science Student  
@@ -14,15 +13,40 @@
 
 ---
 
-## 🔹 Skills
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🔹 Technical Skills
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🔍 Methodologies
+- ETL, Data Cleaning, Data Modeling  
+- Predictive Modeling, Statistical Modeling  
+
+### 📊 Excel
+- Advanced Excel (Pivot Tables, VLOOKUP, Data Analysis)  
 
 ---
 
@@ -64,4 +88,3 @@
 ## 🔹 GitHub Stats
 ![Bhagyawanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical)
-
