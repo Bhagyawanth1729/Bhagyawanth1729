@@ -56,7 +56,7 @@
 
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyawanthningappa/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhagyawanth1729/Portfolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://bhagyawanth1729.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagyawanthningappa.com)
 
 ---
