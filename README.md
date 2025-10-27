@@ -1,6 +1,7 @@
 # Hi 👋, I'm Bhagyawanth
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=4th-%20year+Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power%20BI+%7C+Excel)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=4th-%20Year%20Computer%20Science%20Student;Aspiring%20Data%20Analyst;Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel;Learning%20Machine%20Learning%20%26%20Data%20Visualization)
+
 
 
 ## 🔹 About Me
