@@ -98,6 +98,3 @@
 ![Bhagyawanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagyawanth1729&theme=react-dark&hide_border=true&area=true)
 
 </div>
-## 🔹 GitHub Stats
-![Bhagyawanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical)
