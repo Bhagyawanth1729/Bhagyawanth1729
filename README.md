@@ -1,16 +1,22 @@
-# Hi 👋, I'm Bhagyawanth
-![Header Animation](https://i.ibb.co/6v6XkK9/data-animated-banner.gif)
+<!-- Animated Header (acts like background) -->
+<p align="center">
+  <img src="https://i.ibb.co/3cL4Pvw/data-bg.gif" width="100%" alt="Animated Data Background"/>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=4th-%20Year%20Computer%20Science%20Student;Aspiring%20Data%20Analyst;Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel;Learning%20Machine%20Learning%20%26%20Data%20Visualization)
+# Hi 👋, I'm Bhagyawanth
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=4th-Year+Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Machine+Learning+%26+Data+Visualization" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🔹 About Me
 - 🎓 4th-year Computer Science Student  
-- 📊 Aspiring Data Analyst | Python, SQL, Power BI, Excel  
-- 💼 Worked on projects with Accenture, Deloitte, Tata iQ  
-- 🌱 Learning Machine Learning & Data Visualization  
-- 🌍 Open to collaboration on data-driven projects  
+- 📊 Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel  
+- 💼 Experience working on projects with Accenture, Deloitte, and Tata iQ  
+- 🌱 Currently learning Machine Learning & Data Visualization  
+- 🌍 Open to collaborations on data-driven projects  
 
 ---
 
@@ -54,12 +60,12 @@
 ## 🔹 Projects
 
 ### 🐍 Python / ML Projects
-- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Data_Analytics_IITK_Challenge-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Data-Analytics_Challenge) – Data analytics challenge project  
-- [![Smart Product Pricing Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge) – Multimodal ML project combining text + image for price prediction  
-- [![Insights from Failed Orders](https://img.shields.io/badge/Insights_Failed_Orders-Data-ff69b4?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders) – Exploratory analysis on e-commerce failure data  
-- [![Fraud Detection ML](https://img.shields.io/badge/Fraud_Detection-ML-red?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-) – 94% accurate fraud detection model  
-- [![Blinkit Data Analysis](https://img.shields.io/badge/Blinkit-Analysis-yellow?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/-Blinkit-Data-Analysis-Python) – Grocery delivery insights & operations study  
-- [![Heart Disease Dashboard](https://img.shields.io/badge/Heart_Disease-Dashboard-red?style=for-the-badge&logo=power-bi)](https://github.com/Bhagyawanth1729/Heart-Disease-Analysis-Dashboard) – Power BI dashboard analyzing health risks  
+- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Data_Analytics_IITK_Challenge-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Data-Analytics_Challenge)  
+- [![Smart Product Pricing Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge)  
+- [![Insights from Failed Orders](https://img.shields.io/badge/Insights_Failed_Orders-Data-ff69b4?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders)  
+- [![Fraud Detection ML](https://img.shields.io/badge/Fraud_Detection-ML-red?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-)  
+- [![Blinkit Data Analysis](https://img.shields.io/badge/Blinkit-Analysis-yellow?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/-Blinkit-Data-Analysis-Python)  
+- [![Heart Disease Dashboard](https://img.shields.io/badge/Heart_Disease-Dashboard-red?style=for-the-badge&logo=power-bi)](https://github.com/Bhagyawanth1729/Heart-Disease-Analysis-Dashboard)  
 
 ### 📊 Power BI / Excel Projects
 - [![Power BI & Excel Dashboard](https://img.shields.io/badge/PowerBI_Excel-Dashboard-green?style=for-the-badge&logo=power-bi)](https://github.com/Bhagyawanth1729/PowerBI_Excel_Interactive_Dashboard)  
@@ -69,8 +75,8 @@
 - [![Chocolate Sales Analysis](https://img.shields.io/badge/Chocolate-Sales-red?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Chocolate-Sales-)  
 
 ### 🌐 Web / App Projects
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github)](https://github.com/Bhagyawanth1729/Portfolio) – Personal portfolio website  
-- [![Plant Disease Detection](https://img.shields.io/badge/Plant_Disease-App-green?style=for-the-badge&logo=android)](https://github.com/Bhagyawanth1729/Plant-Disease-Detection-App) – Android app using CNN for plant leaf disease detection  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github)](https://github.com/Bhagyawanth1729/Portfolio)  
+- [![Plant Disease Detection](https://img.shields.io/badge/Plant_Disease-App-green?style=for-the-badge&logo=android)](https://github.com/Bhagyawanth1729/Plant-Disease-Detection-App)  
 - 🏥 Homecare UI (Private) – Responsive healthcare interface  
 
 ### ☕ Java Projects
@@ -90,13 +96,10 @@
 ## 🔹 GitHub Stats & Contributions 🔥
 
 <div align="center">
-
   
-![Bhagyawanth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhagyawanth1729&theme=radical&hide_border=true)<br>
-![Bhagyawanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical&hide_border=true)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical&hide_border=true)
-
-### 🟩 Contribution Graph Animation
-![Bhagyawanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagyawanth1729&theme=react-dark&hide_border=true&area=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhagyawanth1729&theme=radical&hide_border=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical&hide_border=true)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical&hide_border=true)<br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagyawanth1729&theme=react-dark&hide_border=true&area=true)
 
 </div>
