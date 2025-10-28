@@ -53,7 +53,7 @@
 ## 🔹 Projects
 
 ### 🐍 Python / ML Projects
-- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)]
+- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Data Analytics IITK Challenge?style=for-the-badge&logo=python)]
   (https://github.com/Bhagyawanth1729/Data-Analytics_Challenge) - 
 - [![Smart Product Pricing Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge) – Multimodal ML project combining text + image for price prediction
 - [![Insights from Failed Orders](https://img.shields.io/badge/Insights_Failed_Orders-Data-ff69b4?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders)
