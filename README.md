@@ -86,6 +86,18 @@
 
 ---
 
+## 🔹 GitHub Stats & Contributions 🔥
+
+<div align="center">
+
+![Bhagyawanth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhagyawanth1729&theme=radical&hide_border=true)<br>
+![Bhagyawanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical&hide_border=true)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical&hide_border=true)
+
+### 🟩 Contribution Graph Animation
+![Bhagyawanth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhagyawanth1729&theme=react-dark&hide_border=true&area=true)
+
+</div>
 ## 🔹 GitHub Stats
 ![Bhagyawanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyawanth1729&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyawanth1729&layout=compact&theme=radical)
