@@ -4,6 +4,7 @@
 </p>
 
 # Hi 👋, I'm Bhagyawanth
+<img src="https://i.imgur.com/q3hYk4H.gif" width="100%" alt="Tech Grid Animation"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=4th-Year+Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Machine+Learning+%26+Data+Visualization" alt="Typing SVG" />
