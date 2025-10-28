@@ -53,7 +53,7 @@
 ## 🔹 Projects
 
 ### 🐍 Python / ML Projects
-- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Data_Analytics_IITK_Challenge-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Data-Analytics_Challenge) – Data analytics challenge project  
+- [![Data Analytics IITK Challenge](https://img.shields.io/badge/Data_Analytics_IITK_Challenge-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Data-Analytics_Challenge) – Data analytics challenge project  
 - [![Smart Product Pricing Challenge](https://img.shields.io/badge/Smart_Product_Pricing-ML-blue?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Smart_Product_Pricing_Challenge) – Multimodal ML project combining text + image for price prediction  
 - [![Insights from Failed Orders](https://img.shields.io/badge/Insights_Failed_Orders-Data-ff69b4?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Insights-from-Failed-Orders) – Exploratory analysis on e-commerce failure data  
 - [![Fraud Detection ML](https://img.shields.io/badge/Fraud_Detection-ML-red?style=for-the-badge&logo=python)](https://github.com/Bhagyawanth1729/Fraud-Detection-using-Machine-Learning-Full-Python-Data-Analyst-Project-94-Accuracy-) – 94% accurate fraud detection model  
