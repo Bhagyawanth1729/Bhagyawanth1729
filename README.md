@@ -80,7 +80,7 @@
 ---
 
 ### HTML and Python
-- [![ [![Hostel Mangament](https://img.shields.io/badge/Library-Management-sky-blue?style=for-the-badge&logo=html)]
+- [![Hostel Mangament](https://img.shields.io/badge/Library-Management-sky-blue?style=for-the-badge&logo=html)]
  (https://github.com/Bhagyawanth1729/Hostel-Management) 
 
 ## 🔹 Connect with Me
