@@ -68,6 +68,7 @@
 - [![Chocolate Sales Analysis](https://img.shields.io/badge/Chocolate-Sales-red?style=for-the-badge&logo=excel)](https://github.com/Bhagyawanth1729/Chocolate-Sales-)  
 
 ### 🌐 Web / App Projects
+- [![Hostel Mangament](https://img.shields.io/badge/Hostel_Management-website-darkblue?style=for-the-badge&logo=html)](https://github.com/Bhagyawanth1729/Hostel-Management) 
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github)](https://github.com/Bhagyawanth1729/Portfolio) – Personal portfolio website  
 - [![Plant Disease Detection](https://img.shields.io/badge/Plant_Disease-App-green?style=for-the-badge&logo=android)](https://github.com/Bhagyawanth1729/Plant-Disease-Detection-App) – Android app using CNN for plant leaf disease detection  
 - 🏥 Homecare UI (Private) – Responsive healthcare interface  
@@ -78,9 +79,6 @@
 - [![College Java Projects](https://img.shields.io/badge/College_Projects-Java-red?style=for-the-badge&logo=java)](https://github.com/Bhagyawanth1729/College_projects)  
 
 ---
-
-### HTML and Python
-- [![Hostel Mangament](https://img.shields.io/badge/Hostel_Management-website-green?style=for-the-badge&logo=html)](https://github.com/Bhagyawanth1729/Hostel-Management) 
 
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyawanthningappa/)
