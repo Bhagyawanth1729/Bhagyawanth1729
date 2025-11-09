@@ -1,4 +1,21 @@
 # Hi 👋, I'm Bhagyawanth 💫 Blending Code, Curiosity, and Data to Shape Tomorrow’s Solutions”
+<!-- Futuristic Animated Header -->
+<p align="center">
+  <img src="https://i.imgur.com/q3hYk4H.gif" width="100%" alt="Neon Blue Tech Grid Background"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Bhagyawanth</span></h1>
+
+<p align="center">
+  💫 <strong>Blending Code, Curiosity, and Data to Shape Tomorrow’s Solutions</strong> 💫
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analyst+in+the+Making;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Machine+Learning+and+Visualization;Turning+Data+into+Decisions+📊" alt="Typing SVG" />
+</p>
+
+---
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=4th-%20Year%20Computer%20Science%20Student;Aspiring%20Data%20Analyst;Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel;Learning%20Machine%20Learning%20%26%20Data%20Visualization)
 
