@@ -79,6 +79,10 @@
 
 ---
 
+### HTML and Python
+- [![ [![Hostel Mangament](https://img.shields.io/badge/Library-Management-sky-blue?style=for-the-badge&logo=html)]
+ (https://github.com/Bhagyawanth1729/Hostel-Management) 
+
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyawanthningappa/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://bhagyawanth1729.github.io/Portfolio/)
