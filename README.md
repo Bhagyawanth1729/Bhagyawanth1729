@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhagyawanth 💫 Blending Code, Curiosity, and Data to Shape Tomorrow’s Solutions”
+# Hi 👋, I'm Bhagyawanth 
 
 ---
 
