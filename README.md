@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Final-Year+Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Developing+Machine+Learning+%26+Data+Viz+Skills)
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Bhagyawanth1729&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ## 🔹 About Me
 - 🎓 4th-year Computer Science Student  
 - 📊 Aspiring Data Analyst | Python, SQL, Power BI, Excel  
