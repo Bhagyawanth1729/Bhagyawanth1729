@@ -2,7 +2,8 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Final-Year+Computer+Science+Student;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Developing+Machine+Learning+%26+Data+Viz+Skills)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=📊+Aspiring+Backend;Java+%7C+Spring+Boot+%7C+SQL+%7C+Node.js)
+
 ---
 ## 🔹 About Me
 - 🎓 4th-year Computer Science Student  
