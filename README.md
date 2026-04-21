@@ -41,7 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Docker](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=Blue)
+![Docker](https://img.shields.io/badge/Docker-008080?style=for-the-badge&logo=Docker&logoColor=Dark_Blue)
 
 ### 🔍 Methodologies
 - ETL, Data Cleaning, Data Modeling  
