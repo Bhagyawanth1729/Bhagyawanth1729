@@ -7,7 +7,7 @@
 ---
 ## 🔹 About Me
 - 🎓 4th-year Computer Science Student  
-- 📊 Aspiring Backend | Java, Spring Boot, SQL, Node.js  
+- 🖥️ Aspiring Backend / SDE | Java, Spring Boot, SQL, Node.js  
 - 💼 Worked on projects with Accenture, Deloitte, Tata iQ , Xelron 
 - 🌱 Learning Machine Learning & Data Visualization  
 - 🌍 Open to collaboration on data-driven projects  
