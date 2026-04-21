@@ -2,7 +2,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=📊+Aspiring+Backend;Java+%7C+Spring+Boot+%7C+SQL+%7C+Node.js)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🖥️+Aspiring+Backend;Java+%7C+Spring+Boot+%7C+SQL+%7C+Node.js)
 
 ---
 ## 🔹 About Me
